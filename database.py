@@ -4,7 +4,7 @@ import psycopg2
 
 from dotenv import load_dotenv
 
-#testing
+#test
 # Only the codes after load_dotenv will be able to use the environment variables.
 load_dotenv()
 
